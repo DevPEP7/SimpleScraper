@@ -19,4 +19,18 @@ Per eseguire lo scraper, assicurati di avere:
 2.  Le librerie necessarie:
 
 ```bash
+
 pip install requests beautifulsoup4
+🚀 Come Eseguire SimpleScraper v0.3
+Scarica il codice sorgente (es. simplescraper_v03.py) da questo repository.
+Apri il terminale/prompt dei comandi e naviga nella cartella in cui hai salvato il file.
+Esegui il programma: python simplescraper_v03.py
+Il programma ti guiderà, chiedendoti l'URL da analizzare e il nome del tag HTML che vuoi estrarre (es. h2).
+I risultati verranno stampati a schermo e salvati nel file scraping_results.csv nella stessa directory.
+⚠️ Disclaimer Legale ed Etico
+Questo strumento è fornito "così com'è" a scopo didattico e di utilità. L'utente è pienamente responsabile del suo utilizzo. Si prega di:
+Non violare i termini di servizio dei siti web.
+Rispettare il file robots.txt di ciascun sito prima di eseguire qualsiasi operazione automatizzata.
+Non sovraccaricare i server con richieste eccessive.
+💡 Crediti
+Questo progetto è nato dal prompt per la creazione di un assistente AI, AutoDev v0.1, utilizzando l'API Google Gemini.
