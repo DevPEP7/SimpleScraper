@@ -16,10 +16,8 @@ Ideal for: SEO Analysis, Content Research, Link Discovery, and Data Archiving.
 To run the scraper, ensure you have:
 
 1.  **Python 3.x** installed.
-2.  The necessary libraries:
+2.  The necessary libraries: pip install requests beautifulsoup4
 
-```bash
-pip install requests beautifulsoup4
 🚀 How to Run SimpleScraper v0.3
 Download the source code (e.g., simplescraper_v03.py) from this repository.
 Open your terminal/command prompt and navigate to the folder where you saved the file.
@@ -33,3 +31,4 @@ Respect the robots.txt file of each site before performing any automated operati
 Do not overload servers with excessive requests.
 💡 Credits
 This project originated from a prompt to create an AI assistant, AutoDev v0.1, using the Google Gemini API.
+
