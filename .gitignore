@@ -1,0 +1,27 @@
+# Cartella dell'ambiente virtuale
+venv/
+.venv/
+env/
+
+# Cache di Python
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+
+# Dipendenze/File di log
+pip-log.txt
+pip-delete-this-directory.txt
+
+# File di Output/Dati Generati dal Progetto (CRUCIALE per SimpleScraper)
+scraping_results.csv
+autodev.log 
+
+# Cartella Projects (se la usi per salvare gli script generati)
+projects/
+
+# File di configurazione di IDE/OS comuni
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
