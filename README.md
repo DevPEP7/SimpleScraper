@@ -19,8 +19,8 @@ Per eseguire lo scraper, assicurati di avere:
 2.  Le librerie necessarie:
 
 ```bash
-
 pip install requests beautifulsoup4
+
 🚀 Come Eseguire SimpleScraper v0.3
 Scarica il codice sorgente (es. simplescraper_v03.py) da questo repository.
 Apri il terminale/prompt dei comandi e naviga nella cartella in cui hai salvato il file.
@@ -34,3 +34,4 @@ Rispettare il file robots.txt di ciascun sito prima di eseguire qualsiasi operaz
 Non sovraccaricare i server con richieste eccessive.
 💡 Crediti
 Questo progetto è nato dal prompt per la creazione di un assistente AI, AutoDev v0.1, utilizzando l'API Google Gemini.
+
